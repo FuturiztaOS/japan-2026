@@ -1,4 +1,4 @@
-const CACHE = 'tokyo2026-v1';
+const CACHE = 'tokyo2026-v2';
 const OFFLINE = ['/japan-2026/', '/japan-2026/index.html', '/japan-2026/manifest.json'];
 
 self.addEventListener('install', e => {
